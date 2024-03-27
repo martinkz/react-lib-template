@@ -9,3 +9,5 @@ It contains a Counter component. If you're looking to use this template as a bas
 - App.tsx
 - src/Counter.tsx
 - src/index.ts
+
+To preview the production build, comment out the lib/rollup build settings in vite.config.ts before building the project.
